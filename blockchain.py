@@ -1,4 +1,3 @@
-# blockchain.py
 import hashlib
 import json
 import time
