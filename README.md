@@ -1,6 +1,6 @@
 ﻿# blockchain
 
-# mini Blockchain em Python (Proof-of-Work + Rede P2P Simulada)
+# Mini Blockchain em Python (Proof-of-Work + Rede P2P Simulada)
 
 Este projeto implementa uma **blockchain simples em Python**, com:
 
@@ -15,3 +15,4 @@ Este projeto implementa uma **blockchain simples em Python**, com:
 Projeto desenvolvido como atividade prática da disciplina **Sistemas Distribuídos**, seguindo o tema apresentado no seminário sobre Criptomoedas e Blockchain.
 
 ---
+
